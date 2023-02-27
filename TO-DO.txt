@@ -1,0 +1,14 @@
+## Waiting for API approval from SlideShare
+
+TO-DO: 
+1) Add functionality
+	a) Upload Slides 
+	b) Search Slides
+	c) Download Slides
+	d) Delete Slides
+
+2) Store API, SECRET Keys as system variables. 
+
+3) Add multi-file download / upload
+
+4) REMOVE setup.py, upload repo to PIPY | Also need to restructure project files to Py guidelines. 
