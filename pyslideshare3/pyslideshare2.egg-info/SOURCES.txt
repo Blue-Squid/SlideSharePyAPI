@@ -1,0 +1,11 @@
+LICENSE
+README.md
+setup.py
+pyslideshare2/__init__.py
+pyslideshare2/object_dict.py
+pyslideshare2/pyslideshare.py
+pyslideshare2/xml2dict.py
+pyslideshare2.egg-info/PKG-INFO
+pyslideshare2.egg-info/SOURCES.txt
+pyslideshare2.egg-info/dependency_links.txt
+pyslideshare2.egg-info/top_level.txt

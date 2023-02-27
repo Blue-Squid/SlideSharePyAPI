@@ -1,0 +1,17 @@
+Metadata-Version: 2.1
+Name: pyslideshare2
+Version: 0.3
+Summary: Python module for SlideShare v3
+Home-page: http://code.google.com/p/pyslideshare/
+Author: Marc Poulhiès | BlueSquid
+Author-email: dkm@kataplop.net
+Maintainer: Germán Krauss
+Maintainer-email: german@devartis.com
+License: GPL,MIT
+License-File: LICENSE
+
+
+                        Python wrapper for SlideShare API, Originally authored by Prabhu Subramanian (prabhu.subramanian@gmail.com), 
+                        version 2 written by Marc Poulhiès (dkm@kataplop.net), 
+                        converted from Python2 to Python3 + minor bug fixes by BlueSquid 
+                       
